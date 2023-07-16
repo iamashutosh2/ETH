@@ -32,6 +32,6 @@ contract MyToken {
         tokenSupply -= _value;
 
         // Return success message
-        return "Abhishek! Your Tokens burned successfully";
+        return "Your Tokens burned successfully";
     }
 }
